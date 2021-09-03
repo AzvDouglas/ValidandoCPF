@@ -13,4 +13,5 @@ Se J ou K calculados forem diferentes dos fornecidos pelo usuário o CPF não é
 <br/>
 O problema desse algorítmo é que considera como válido CPF's com sequencia de número repetidos do tipo "111.111.111-11" 
 Então é preciso tratar essa exceção no código.<br/>
-
+<br/>
+Obs.: O script está na branch master;
