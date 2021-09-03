@@ -1,5 +1,3 @@
-# ValidandoCPF
-Script em JavaScript verificando se um número de CPF é válido
 <h1> ValidandoCPF </h1>
 <h2> Script em JavaScript verificando se um número de CPF é válido </h2>
 
