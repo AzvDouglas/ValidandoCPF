@@ -48,9 +48,9 @@ if (cpf.valida()) {
 	console.log('CPF Inválido!')
 }
 
-//cpf.valida();
-/* let cpf1 = '705.484.450-52';
-let cpf2 = '070.987.720-03';
-let cpfRandom = '420.420.420-13';
+
+/* cpf1 = '705.484.450-52';
+cpf2 = '070.987.720-03';
+cpfRandom = '420.420.420-13';
 let cpfLimpo = cpf.replace(/\D+/g, ' ');  
 cpfArray = Array.from(cpfLimpo); //transformando em array para poder usar o método .map */
